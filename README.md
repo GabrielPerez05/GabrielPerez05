@@ -3,9 +3,9 @@
 I have a strong enthusiasm for programming and solid experience working with databases. I’m driven by the challenge of unraveling complex problems and designing refined, efficient solutions. My path in technology started when I began my BS in Information Technology.
 
 # Education
-* BS Information Technology
-+ New Era University
-+ 2025 - Present
+- BS Information Technology
+* New Era University
+* 2025 - Present
 
 # Certification
 *
