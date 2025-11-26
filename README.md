@@ -4,8 +4,8 @@ I have a strong enthusiasm for programming and solid experience working with dat
 
 # Education
 * BS Information Technology
-New Era University
-2025 - Present
+* New Era University
+* 2025 - Present
 
 # Certification
 *
