@@ -4,7 +4,7 @@ I have a strong enthusiasm for programming and solid experience working with dat
 
 # Education
 * Bachelor of Science in Information Technology
-  - New Era University  (2025 - Present)
+  - New Era University  (2024 - Present)
   
 
 # Certification  
