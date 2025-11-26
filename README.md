@@ -8,7 +8,7 @@ I have a strong enthusiasm for programming and solid experience working with dat
   - 2025 - Present
 
 # Certification  
-[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4ca55bc4d43b4e77a865960432022380)
+* [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4ca55bc4d43b4e77a865960432022380)
 
 
 # Skills Set
