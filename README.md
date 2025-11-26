@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there, I'm Gabriel Red Ray Perez! 👋
 
-<!--
-**GabrielPerez05/GabrielPerez05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have a strong enthusiasm for programming and solid experience working with databases. I’m driven by the challenge of unraveling complex problems and designing refined, efficient solutions. My path in technology started when I began my BS in Information Technology.
 
-Here are some ideas to get you started:
+# Education
+* BS Information Technology
+New Era University
+2025 - Present
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Certification
+*
+*
+*
+*
+
+# Skills Set
+* Programming: Java, HTML, CSS, PHP
+* Databases: IBM DB2 Cloud
+* Tools: Lucidchart, Visual Code Studio, Eclipse
+
+# Let's Connect!
+*
+*
