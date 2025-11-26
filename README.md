@@ -7,8 +7,9 @@ I have a strong enthusiasm for programming and solid experience working with dat
   - New Era University
   - 2025 - Present
 
-# Certification
-*[SQL and Relational Databases 101]([url](https://courses.cognitiveclass.ai/certificates/4ca55bc4d43b4e77a865960432022380))
+# Certification  
+[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4ca55bc4d43b4e77a865960432022380)
+
 
 # Skills Set
 * Programming: Java, JavaScript, HTML, CSS, PHP
