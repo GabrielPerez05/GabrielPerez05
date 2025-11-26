@@ -9,9 +9,6 @@ I have a strong enthusiasm for programming and solid experience working with dat
 
 # Certification
 *
-*
-*
-*
 
 # Skills Set
 * Programming: Java, HTML, CSS, PHP
