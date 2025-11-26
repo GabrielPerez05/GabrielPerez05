@@ -16,6 +16,3 @@ I have a strong enthusiasm for programming and solid experience working with dat
 * Databases: IBM DB2 Cloud
 * Tools: Lucidchart, Visual Code Studio, Eclipse
 
-# Let's Connect!
-*
-*
