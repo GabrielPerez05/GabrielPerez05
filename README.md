@@ -11,7 +11,7 @@ I have a strong enthusiasm for programming and solid experience working with dat
 *
 
 # Skills Set
-* Programming: Java, HTML, CSS, PHP
+* Programming: Java, JavaScript, HTML, CSS, PHP
 * Databases: IBM DB2 Cloud
 * Tools: Lucidchart, Visual Code Studio, Eclipse
 
