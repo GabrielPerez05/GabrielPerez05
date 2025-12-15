@@ -10,6 +10,7 @@ I have a strong enthusiasm for programming and solid experience working with dat
 # Certification  
 * [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/4ca55bc4d43b4e77a865960432022380)
 * [Oracle Cloud Infrastructure 2025 Certified Foundations Associate](https://catalog-education.oracle.com/pls/certview/sharebadge?id=92430938109CF620729D478F42D7ECD6CD64CAC81343E439D625C55DD9610FA8)
+* [Oracle Data Platform 2025 Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge?id=640F4273D3CFB9CD7E730C1CC78C80D6E669DE5D1880237F3BA59021E5854F92)
 
 
 # Skills Set
