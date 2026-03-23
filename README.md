@@ -19,3 +19,6 @@ I have a strong enthusiasm for programming and solid experience working with dat
 * Databases: IBM DB2 Cloud
 * Tools: Lucidchart, Visual Code Studio, Eclipse
 
+# Personal Project
+*[NEU Library Logs](https://librarynewera.page.gd)
+*[Source Code](https://drive.google.com/drive/folders/1mzCiXNJRPUIMqtmS9VxvP9j6SkS8uSaK?usp=sharing)
