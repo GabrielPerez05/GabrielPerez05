@@ -20,5 +20,5 @@ I have a strong enthusiasm for programming and solid experience working with dat
 * Tools: Lucidchart, Visual Code Studio, Eclipse
 
 # Personal Project
-*[NEU Library Logs](https://librarynewera.page.gd)
-*[Source Code](https://drive.google.com/drive/folders/1mzCiXNJRPUIMqtmS9VxvP9j6SkS8uSaK?usp=sharing)
+* [NEU Library Logs](https://librarynewera.page.gd)
+* [Source Code](https://drive.google.com/drive/folders/1mzCiXNJRPUIMqtmS9VxvP9j6SkS8uSaK?usp=sharing)
